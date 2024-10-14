@@ -15,6 +15,8 @@ Também foi utilizado Dropout para evitar sobreajuste.
 Test Accuracy: 99.65%
 
 
+código:
+https://github.com/Laury20/CNN_FashionMNIST
 
 ## Instruções para o código:
 * instalar numpy, matplotlib e scipy;
